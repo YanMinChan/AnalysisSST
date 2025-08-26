@@ -10,16 +10,16 @@ Analysis of sea surface temperature (SST) using time series models. Focusing on 
 ### Plots
 - Increasing trend in SST
 
-    <img src="images/time-series-plot-with-trend.png" width="50%"/>
+    <img src="images/time-series-plot-with-trend.png" width="80%"/>
 
 - Comparison with actual values
     | Model  | Plot |
     |--------|------|
-    | SARIMA |![SARIMA](./images/sarima-forecast-vs-actual.png)|
-    | NNAR   |![NNAR](./images/nnar-forecast-vs-actual.png)| 
-    | SGAR   |![SGAR](./images/sgar-forecast-vs-actual.png)|
+    | SARIMA |<img src="images/sarima-forecast-vs-actual.png" width="60%"/>|
+    | NNAR   |<img src="images/nnar-forecast-vs-actual.png" width="60%"/>| 
+    | SGAR   |<img src="images/sgar-forecast-vs-actual.png" width="60%"/>|
 - Comparison of all results
-    ![All results](./images/comparison-all-with-true.png)
+    <img src="images/comparison-all-with-true.png" width="80%"/>
 
 ## Acknowledgement
 1. Dataset: Hadley Centre Sea Ice and Sea Surface Temperature data set ([HadISST](https://www.metoffice.gov.uk/hadobs/hadisst/)), in NetCDF format.
