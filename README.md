@@ -9,11 +9,13 @@ Analysis of sea surface temperature (SST) using time series models. Focusing on 
 
 ### Plots
 - Increasing trend in SST
-    ![SST data with trend](./images/time-series-plot-with-trend.png)
+    <img src="images/time-series-plot-with-trend.png" width="200"/>
 - Comparison with actual values
-    | SARIMA | NNAR | SGAR|
-    |--------|------|-----|
-    |![SARIMA](./images/sarima-forecast-vs-actual.png) | ![NNAR](./images/nnar-forecast-vs-actual.png) | ![SGAR](./images/sgar-forecast-vs-actual.png) |
+    | Model  | Plot |
+    |--------|------|
+    | SARIMA |![SARIMA](./images/sarima-forecast-vs-actual.png)|
+    | NNAR   |![NNAR](./images/nnar-forecast-vs-actual.png)| 
+    | SGAR   |![SGAR](./images/sgar-forecast-vs-actual.png)|
 - Comparison of all results
     ![All results](./images/comparison-all-with-true.png)
 
