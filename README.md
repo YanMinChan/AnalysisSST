@@ -18,4 +18,4 @@ Analysis of sea surface temperature (SST) using time series models. Focusing on 
     ![All results](./images/comparison-all-with-true.png)
 
 ## Acknowledgement
-1. Dataset: Hadley Centre Sea Ice and Sea Surface Temperature data set (HadISST)[https://www.metoffice.gov.uk/hadobs/hadisst/], in NetCDF format.
+1. Dataset: Hadley Centre Sea Ice and Sea Surface Temperature data set ([HadISST](https://www.metoffice.gov.uk/hadobs/hadisst/)), in NetCDF format.
