@@ -9,7 +9,9 @@ Analysis of sea surface temperature (SST) using time series models. Focusing on 
 
 ### Plots
 - Increasing trend in SST
-    <img src="images/time-series-plot-with-trend.png" width="200"/>
+
+    <img src="images/time-series-plot-with-trend.png" width="50%"/>
+
 - Comparison with actual values
     | Model  | Plot |
     |--------|------|
