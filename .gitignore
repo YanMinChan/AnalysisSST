@@ -1,0 +1,6 @@
+# Ignore dataset
+*.nc
+*.gz
+
+# Ignore pdf
+*.pdf
